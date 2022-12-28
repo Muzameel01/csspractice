@@ -1,0 +1,27 @@
+/* univarsal selector */
+*{
+    text-align: center;
+    color: thistle;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* element selector */
+h1{
+    background-color: rgb(196, 255, 245);
+    border: 2px solid black;
+}
+
+p{
+    background-color: antiquewhite;
+    font-style: italic;
+}
+/* id selector */
+#uheading{
+    text-align: center;
+    background-color: cadetblue;
+    border: 2px solid black;
+}
+/* class selector */
+.center{
+    text-align: center;
+    color: coral;
+}
