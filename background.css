@@ -1,0 +1,15 @@
+body{
+   /* background-color: aqua;*/
+    background-image: url(./google.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-image: conic-gradient(red 30% green 30% blue 30%);*/
+    background-attachment: fixed;
+}
+h1{
+    background-color: antiquewhite;
+}
+h2{
+    background-color: cadetblue;
+    
+}
